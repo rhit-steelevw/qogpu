@@ -1,0 +1,12 @@
+name = "qogpu_software_renderer"
+description = "Software Renderer for verification of FPGA GPU output"
+version = "0.1.0-dev"
+
+authors = ["Connor Bodie"]
+maintainers = ["Connor Bodie <bodiecs@rose-hulman.edu>"]
+maintainers-logins = ["rhit-bodiecs"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["qogpu_software_renderer"]

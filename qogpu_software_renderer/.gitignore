@@ -1,0 +1,25 @@
+# Alire-generated configuration and local state
+/alire/
+/config/
+
+# Ada build products
+/obj/
+/bin/
+*.o
+*.ali
+*.exe
+
+# Generated renders (input textures in textures/ are tracked)
+/frames/
+/cube.gif
+/output.ppm
+/texture.ppm
+
+# Python and editor/OS temporary files
+__pycache__/
+*.pyc
+.venv/
+*.swp
+*~
+.DS_Store
+Thumbs.db
