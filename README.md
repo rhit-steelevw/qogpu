@@ -27,3 +27,8 @@ python make_gif.py
 
 Source, project metadata, and input textures are tracked. Build products,
 Alire local state, and generated renders are ignored.
+
+## Project documentation
+
+- [Initial Architecture Proposal](docs/architecture-proposal.md)
+- [Memory Management Discussion and Design Decisions](docs/memory-management-discussion.md)
